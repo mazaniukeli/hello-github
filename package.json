@@ -1,0 +1,22 @@
+{
+  "name": "hello-github",
+  "version": "1.0.0",
+  "description": "1st project on Github * * *",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazaniukeli/hello-github.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "liza",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mazaniukeli/hello-github/issues"
+  },
+  "homepage": "https://github.com/mazaniukeli/hello-github#readme"
+}
